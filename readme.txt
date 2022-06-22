@@ -131,3 +131,6 @@ Never gonna run around and desert you
 Never gonna make you cry
 
 Never gonna say goodbye
+Never gonna make you cry
+
+Never gonna say goodbye
