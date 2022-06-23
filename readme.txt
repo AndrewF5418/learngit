@@ -134,3 +134,5 @@ Never gonna say goodbye
 Never gonna make you cry
 
 Never gonna say goodbye
+
+Try new songs!
