@@ -137,3 +137,5 @@ Never gonna say goodbye
 
 Try new songs (THE BEST)(CHANGES)!
 Change in DEV
+
+Change in new DEV about BUGS
